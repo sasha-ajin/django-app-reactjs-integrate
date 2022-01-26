@@ -8,13 +8,13 @@ This is django app for integration ReactJS to the project.You can install one an
 
 Firstly install the app 
 
-```console
+```properties
 git clone https://github.com/sasha-ajin/django-app-reactjs-integrate.git
 ```
 ### Setting up django 
 After that, rename the app to **frontend**
 
-```shell
+```properties
 mv django-app-reactjs-integrate/ frontend
 ```
 
@@ -32,12 +32,12 @@ Also, you should have static folder in your django project
 
 Inside **frontend** folder install nodejs
 
-```console
+```properties
 npm install
 ```
 
 And assemble Reactjs in a single file
 
-```console
+```properties
 npm run dev
 ```
