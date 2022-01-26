@@ -14,7 +14,7 @@ git clone https://github.com/sasha-ajin/django-app-reactjs-integrate.git
 ### Setting up django 
 After that, rename the app to **frontend**
 
-```console
+```shell
 mv django-app-reactjs-integrate/ frontend
 ```
 
