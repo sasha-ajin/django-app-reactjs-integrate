@@ -32,12 +32,12 @@ Also, you should have static folder in your django project
 
 Inside **frontend** folder install nodejs
 
-```bash
-npm i
+```console
+npm install
 ```
 
 And assemble Reactjs in a single file
 
-```bash
+```console
 npm run dev
 ```
