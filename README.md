@@ -8,7 +8,7 @@ This is django app for integration ReactJS to the project.You can install one an
 
 Firstly install the app 
 
-```
+```console
 git clone https://github.com/sasha-ajin/django-app-reactjs-integrate.git
 ```
 ### Setting up django 
