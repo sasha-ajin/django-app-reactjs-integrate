@@ -27,16 +27,16 @@ INSTALLED_APPS = [
 ]
 ```
 
-Also, you should have static folder in your django project
-### Setting up Reactjs
+Also, you should have **static** folder in your django project
+### Setting up ReactJS
 
-Inside **frontend** folder install nodejs
+Inside **frontend** folder install **nodejs**
 
 ```
 npm install
 ```
 
-And assemble Reactjs in a single file
+And assemble ***ReactJS*** in a single file
 
 ```
 npm run dev
