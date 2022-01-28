@@ -27,7 +27,7 @@ INSTALLED_APPS = [
 ]
 ```
 
-Also, you should have **static** folder in your django project, which should be available on [your.domain.name/static](https://your.domain.name/static) your.domain.name/static
+Also, you should have **static** folder in your django project, which should be available on [**your.domain.name/static/**](https://your.domain.name/static) 
 
 ### Setting up ReactJS
 
