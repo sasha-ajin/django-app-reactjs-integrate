@@ -2,7 +2,7 @@
 
 ## What is it?
  
-This is django app for integration ReactJS to the project.You can install one and insert ReactJS, which is assembled with **webpack**, to your template with **script** tag, or use **frontend_view** from **views.py**
+This is django app for integration with ReactJS to the project.You can install one and insert ReactJS, which is assembled with **webpack**, to your template with **script** tag, or use **frontend_view** from **views.py**
 
 ## Installation to django project 
 
