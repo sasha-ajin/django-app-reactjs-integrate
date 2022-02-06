@@ -9,7 +9,7 @@ This is django app for integration with ReactJS
 After installation you can insert ReactJS, which is assembled with **webpack**, to your template with **script** tag
 
 ```html
-      <script src={% static 'frontend_build/main.js' %}></script>
+<script src={% static 'frontend_build/main.js' %}></script>
 ```
 
 Or use default **frontend_view** from **views.py** for every url path
