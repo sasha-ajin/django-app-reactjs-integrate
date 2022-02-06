@@ -44,7 +44,7 @@ npm run dev
 ```
 ## Usage
 
-You can install one and insert ReactJS, which is assembled with **webpack**, to your template with **script** tag
+After installation you can insert ReactJS, which is assembled with **webpack**, to your template with **script** tag
 
 ```html
       <script src={% static 'frontend_build/main.js' %}></script>
